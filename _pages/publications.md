@@ -24,11 +24,11 @@ _Occupational Therapy International_, vol. 2020, Article ID 8542191, 9 pages, 27
 
 - A Semi-automated Tablet-based Assessment Tool for Handwriting Ability  
 Hiroyuki Ishihara, Hiromichi Hagihara, Naoto Ienaga, Daiki Enomoto, Haruka Noda, Kei Terayama, Shuhei Takahata  
-_[WFOT Congress 2022](https://wfotcongress2022.org/)_, [Poster]
+_[18th WFOT International Congress](https://wfotcongress2022.org/)_, 28-31, Aug. 2022 [Poster]
 
 - ペンタブレットを用いた書字能力の評価ツール開発に向けた予備的研究  
 高畑脩平, 新庄真帆, 遠田千晶, 萩原広道, 榎本大貴  
-第54回日本作業療法学会, 2020年9月25日 - 2020年10月25日 [Poster]  
+第54回日本作業療法学会, 2020年9月25日 - 10月25日 [Poster]  
 
 - 作業療法効果の定量化に向けた予備的研究―画像処理技術OpenPoseの臨床的応用―  
 高畑脩平, 萩原広道, 榎本大貴, 家永直人, 寺山 慧  
